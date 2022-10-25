@@ -1,0 +1,12 @@
+.result {
+  margin-top: 1em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 2em;
+  font-style: oblique;
+  color: #ffffff;
+}
+
+.holidayName {
+  font-weight: 900;
+  font-size: 1.4em;
+}

@@ -1,0 +1,28 @@
+.button {
+  margin: 1em;
+  line-height: 4em;
+  color: #0b0b0b;
+  font-weight: 600;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
+}
+
+#date,
+.remind {
+  color: red;
+  animation: 1s blinker;
+  animation-iteration-count: 5;
+  font-weight: 900;
+}
+
+@keyframes blinker {
+  from {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0.2;
+  }
+  to {
+    opacity: 1;
+  }
+}
