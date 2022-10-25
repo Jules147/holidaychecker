@@ -2,6 +2,8 @@
 
 [https://fanciful-belekoy-0a3a14.netlify.app] (https://fanciful-belekoy-0a3a14.netlify.app)
 
+I am aware that the api I've used does not work for every country in the world and apologise to those places excluded from the search.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
